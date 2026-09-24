@@ -1,0 +1,9 @@
+# Never commit portrait photos
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+
+# macOS system files
+.DS_Store
